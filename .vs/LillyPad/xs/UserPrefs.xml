@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{2749EF9C-186D-4295-945A-77AD1492127F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LillyPad/Info.plist">
+    <Files>
+      <File FileName="LillyPad/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LillyPad" expanded="True">
+            <Node name="LillyPad" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Info.plist" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+            <Node name="LillyPadExtension" expanded="True">
+              <Node name="ShareViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LillyPadExtension PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008020-000921A01E52002E" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Share/LillyPad.csproj</String>
+    <String>ShareExtension/LillyPadExtension.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.LillyPad PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA7AFEC8-0D4F-48DD-8938-5336754A0ACC" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/LillyPadViewController.cs" relfile="LillyPadExtension/LillyPadViewController.cs" line="37" column="56" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="matthew.vandergrift.ibm.com" Email="matthew.vandergrift@live.com" Copyright="" Company="" Trademark="" />
+</Properties>

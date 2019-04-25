@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionCodesignProperties Include="LillyPadExtension.appex">
+      <CodesignAppExtensionInputs>/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/Info.plist;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/LillyPadExtension;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/LillyPadExtension.aotdata.arm64;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/LillyPadExtension.dll;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/LillyPadExtension.pdb;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/MonoTouchDebugConfiguration.txt;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/archived-expanded-entitlements.xcent;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/embedded.mobileprovision;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/libLillyPadExtension.dll.dylib;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/libxamarin-debug.dylib;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/MainInterface.storyboardc/Info.plist;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/MainInterface.storyboardc/UIViewController-j1y-V4-xli.nib;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/MainInterface.storyboardc/j1y-V4-xli-view-wbc-yd-nQP.nib;/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhone/Debug/device-builds/iphone11.8-12.2/LillyPadExtension.appex/Settings.bundle/Root.plist;</CodesignAppExtensionInputs>
+      <NativeExecutable>LillyPadExtension</NativeExecutable>
+      <CodesignAllocate>/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate</CodesignAllocate>
+      <DisableTimestamp>True</DisableTimestamp>
+      <Entitlements>/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhone/Debug/device-builds/iphone11.8-12.2/Entitlements.xcent</Entitlements>
+      <ResourceRules></ResourceRules>
+      <Keychain></Keychain>
+      <LibrarySigningKey>65571DA12FF4A49B60DF49B190AD957F292320F8</LibrarySigningKey>
+      <SigningKey>65571DA12FF4A49B60DF49B190AD957F292320F8</SigningKey>
+      <ExtraArgs></ExtraArgs>
+    </_AppExtensionCodesignProperties>
+  </ItemGroup>
+</Project>

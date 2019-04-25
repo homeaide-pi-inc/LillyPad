@@ -1,0 +1,11 @@
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/bin/iPhone/Debug/LillyPad.exe
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/bin/iPhone/Debug/LillyPad.pdb
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhone/Debug/device-builds/iphone11.8-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhone/Debug/device-builds/iphone11.8-12.2/actool/_PartialAppManifest.items
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhone/Debug/device-builds/iphone11.8-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhone/Debug/device-builds/iphone11.8-12.2/coremlc/_PartialAppManifest.items
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhone/Debug/device-builds/iphone11.8-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhone/Debug/device-builds/iphone11.8-12.2/optimized/
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhone/Debug/LillyPad.csproj.CoreCompileInputs.cache
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhone/Debug/LillyPad.exe
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhone/Debug/LillyPad.pdb

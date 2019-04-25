@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{2749EF9C-186D-4295-945A-77AD1492127F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShareExtension/Info.plist">
+    <Files>
+      <File FileName="Share/ViewController.cs" Line="1" Column="1" />
+      <File FileName="Share/Main.cs" Line="3" Column="19" />
+      <File FileName="ShareExtension/Info.plist" />
+      <File FileName="ShareExtension/Entitlements.plist" />
+      <File FileName="Share/Entitlements.plist" />
+      <File FileName="ShareExtension/ShareViewController.cs" Line="1" Column="1" />
+      <File FileName="ShareExtension/ShareViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="ShareExtension/MainInterface.storyboard" />
+      <File FileName="Share/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="Share/Info.plist" />
+      <File FileName="Share/LaunchScreen.storyboard" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Share" expanded="True">
+            <Node name="LillyPad" expanded="True">
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+            <Node name="LillyPadExtension" expanded="True" selected="True">
+              <Node name="ShareViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LillyPadExtension automaticSigning="False" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.LillyPad automaticSigning="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008020-000921A01E52002E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="5LE43C63QL" TeamId="F2VGAV7YDQ" />
+  </MonoDevelop.Ide.ItemProperties.LillyPad>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

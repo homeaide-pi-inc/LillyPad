@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="LillyPadExtension.appex">
+      <CompiledArchitectures></CompiledArchitectures>
+      <NativeExecutable>LillyPadExtension</NativeExecutable>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <SymbolsList>/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhone/Debug/device-builds/iphone11.8-12.2/mtouch-symbols.list</SymbolsList>
+      <NoDSymUtil>false</NoDSymUtil>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>

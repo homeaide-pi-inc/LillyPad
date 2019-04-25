@@ -1,0 +1,11 @@
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhoneSimulator/Release/LillyPadExtension.dll
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/bin/iPhoneSimulator/Release/LillyPadExtension.pdb
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhoneSimulator/Release/optimized/
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhoneSimulator/Release/LillyPadExtension.csproj.CoreCompileInputs.cache
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhoneSimulator/Release/LillyPadExtension.dll
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/obj/iPhoneSimulator/Release/LillyPadExtension.pdb

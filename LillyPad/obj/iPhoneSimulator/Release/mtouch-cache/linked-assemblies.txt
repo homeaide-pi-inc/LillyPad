@@ -1,0 +1,8 @@
+RemoveDynamicRegistrar:false
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/bin/iPhoneSimulator/Release/LillyPad.app:/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/LillyPad.exe
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/bin/iPhoneSimulator/Release/LillyPad.app:/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/mscorlib.dll
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/bin/iPhoneSimulator/Release/LillyPad.app:/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/bin/iPhoneSimulator/Release/LillyPad.app:/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/bin/iPhoneSimulator/Release/LillyPad.app:/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Mono.Security.dll
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/bin/iPhoneSimulator/Release/LillyPad.app:/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Xml.dll
+/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/bin/iPhoneSimulator/Release/LillyPad.app:/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPad/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Core.dll
