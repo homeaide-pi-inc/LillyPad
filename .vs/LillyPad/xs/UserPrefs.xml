@@ -2,6 +2,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="LillyPad/Info.plist">
     <Files>
       <File FileName="LillyPad/Info.plist" />
+      <File FileName="LillyPadExtension/ShareViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="LillyPadExtension/ShareViewController.cs" Line="34" Column="45" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -30,7 +32,7 @@
   <MonoDevelop.Ide.ItemProperties.LillyPad PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA7AFEC8-0D4F-48DD-8938-5336754A0ACC" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/matthew.vandergrift.ibm.com/Projects/LillyPad/LillyPadExtension/LillyPadViewController.cs" relfile="LillyPadExtension/LillyPadViewController.cs" line="37" column="56" />
+      <Breakpoint file="/Users/matthew.vandergrift.ibm.com/Projects/homeaide-pi-inc/LillyPad/LillyPadExtension/LillyPadViewController.cs" relfile="LillyPadExtension/LillyPadViewController.cs" line="37" column="56" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
